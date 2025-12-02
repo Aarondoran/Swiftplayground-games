@@ -6,7 +6,7 @@ Thank you for your interest in contributing. Follow the steps below to submit im
 
 1. Fork the repository to your account.
 2. Create a new branch from the main branch.
-3. Make your changes and ensure everything works as expected.
+3. Make your changes by adding a folder and zip file following the same name stricture, and correctly editing the [Readme](README.md)and ensure everything works as expected.
 4. Commit your changes with a clear message.
 5. Push your branch to your fork.
 
@@ -21,12 +21,13 @@ Thank you for your interest in contributing. Follow the steps below to submit im
 
 - Keep changes focused and meaningful.
 - Ensure files are properly formatted into '.zip" files containing '.swiftpm' files
-- Follow existing naming and structural conventions by adding your game with your deserved credit in thr Readme file
+- Follow existing naming and structural conventions by adding your game with your deserved credit in the [Readme](README.md) file
 
 ## Readme template structure
-- Here is a clear template for the readme file, fill put the details and you can contribute.
+- Here is a clear template for the [Readme](README.md) file, fill put the details and append to the correct section.
   
-  ```### name
+  ```
+  ### name
   - Version: 1.0
   - Link: [name.zip](https://github.com/Aarondoran/Swiftplayground-games/raw/main/name/name.zip)
   - Description: your description
@@ -36,4 +37,4 @@ Thank you for your interest in contributing. Follow the steps below to submit im
 
 Your pull request will be reviewed. 
 If updates are requested, make the necessary changes and push them to your branch. 
-Once approved, it will be merged into the main branch.
+Once approved, it will be merged into the main branch and a release will be made.
