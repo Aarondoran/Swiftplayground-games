@@ -18,8 +18,10 @@ Use this template for each app/playground you add to the repo. Copy/paste and up
   - Version: 1.0
   - Link: [Pong.zip](https://github.com/Aarondoran/Swiftplayground-games/raw/main/Pong/Pong.zip)
   - Description: A simple Pong game with multiple difficulty modes, and a rewards system.
+  - Author: [Aarondoran](https://github.com/Aarondoran)
 
 ### Blackjack
   - Version: 1.0
   - Link: [Blackjack.zip](https://github.com/Aarondoran/Swiftplayground-games/raw/main/Blackjack/Blackjack.zip)
   - Description: A simple Blackjack game with simple betting features and clear instructions for beginners.
+  - Author: [Aarondoran](https://github.com/Aarondoran)
