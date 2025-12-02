@@ -29,7 +29,8 @@ Thank you for your interest in contributing. Follow the steps below to submit im
   ```
   ### name
   - Version: 1.0
-  - Link: [name.zip](https://github.com/Aarondoran/Swiftplayground-games/raw/main/name/name.zip)
+  - Link: [name.zip](https://github.com/Aarondoran/Swiftplayground-games/
+  raw/main/name/name.zip)
   - Description: your description
   - Author: [author](https://github.com/author)```
 
