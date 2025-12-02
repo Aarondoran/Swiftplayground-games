@@ -6,7 +6,7 @@ Thank you for your interest in contributing. Follow the steps below to submit im
 
 1. Fork the repository to your account.
 2. Create a new branch from the main branch.
-3. Make your changes by adding a folder and zip file following the same name stricture, and correctly editing the [Readme](README.md)and ensure everything works as expected.
+3. Make your changes by adding a folder and zip file following the same name stricture, and correctly editing the [Readme](README.md) and ensure everything works as expected.
 4. Commit your changes with a clear message.
 5. Push your branch to your fork.
 
