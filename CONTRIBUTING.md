@@ -23,6 +23,15 @@ Thank you for your interest in contributing. Follow the steps below to submit im
 - Ensure files are properly formatted into '.zip" files containing '.swiftpm' files
 - Follow existing naming and structural conventions by adding your game with your deserved credit in thr Readme file
 
+## Readme template structure
+- Here is a clear template for the readme file, fill put the details and you can contribute.
+  
+  ```### name
+  - Version: 1.0
+  - Link: [name.zip](https://github.com/Aarondoran/Swiftplayground-games/raw/main/name/name.zip)
+  - Description: your description
+  - Author: [author](https://github.com/author)```
+
 ## After Submitting
 
 Your pull request will be reviewed. 
